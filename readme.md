@@ -1,6 +1,6 @@
 # Fieldnote
 
-> *Inspired by [vbd/Fieldnote](https://github.com/vbd/Fieldnotes)*
+> *Inspired by [vbd/Fieldnotes](https://github.com/vbd/Fieldnotes)*
 
 This repository serves as a permanent testament to my journey as a Backend Engineer and acts as my single source of truth for everything I am learning, building, and exploring in software engineering.
 
