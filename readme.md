@@ -1,4 +1,4 @@
-# Fieldnote
+# Fieldnotes
 
 > *Inspired by [vbd/Fieldnotes](https://github.com/vbd/Fieldnotes)*
 
