@@ -14,5 +14,4 @@ Following the field note philosophy, this repository is organized into:
 ├── logs/            # Chronological weekly logs (Calendar Week format)
 ├── notes/           # Notes about topics
 └── resources/       # Curated books, articles, tools, and links
-└── books/
 └── Projects/
